@@ -56,11 +56,9 @@ By running locally, I can directly benchmark inference speed, prompt handling, a
 
 ## 📸 Example Preview
 
-A Lua script being edited inside the floating IDE — showing inline AI completions and VS Code-style syntax coloration.
+> Example: Editing a Lua script with inline model completions and VS Code-style syntax highlighting inside the floating IDE.
 
-![Floating Code Editor Screenshot](assets/editor_preview.png)
-
-*(Add your actual screenshot in `/assets/editor_preview.png`)*
+![Floating Code Editor Screenshot](ss.png)
 
 ---
 
